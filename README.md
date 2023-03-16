@@ -4,7 +4,7 @@
 ### Modificacion de parametros
  En este segundo ejemplo tenemos ya lista la plantilla para que asi solo modifiquemos 2 parametros 
 
-![Imagen de ejemplo](https://github.com/felixlestaal1/reverseshell/blob/main/img/img1.png)
+![Imagen de ejemplo](https://github.com/felixlestaal1/revershell2/blob/main/img/img1.png)
 
 
 
@@ -12,7 +12,7 @@
 ---
  En este segundo ejemplo tenemos ya lista la plantilla para que asi solo modifiquemos 2 parametros 
 
-![Segunda imagen de ejemplo](https://github.com/felixlestaal1/reverseshell/blob/main/img/img2.png)
+![Segunda imagen de ejemplo](https://github.com/felixlestaal1/revershell2/blob/main/img/img2.png)
 
     Recordatorio debemos de tener los mismos puertos de uso entre la revershell y el server 
 
